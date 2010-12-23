@@ -1,0 +1,20 @@
+Rendering a Cylinder Between Two Points in OpenGL
+-------------------------------------------------
+
+This problem is more of a pain than one would think!
+Here is some code that does it, based on the implementation
+which used to be posted at the following URL by Joel J. Parris:
+http://home.neo.rr.com/jparris/OpenGL%20-%20draw%20cylinder%20between%202%20pts.htm
+
+I posted this code on my blog in July 2008, and since then it has
+apparently got a lot of attention and use! I thought I'd make a
+repository for it so others can contribute their suggestions.
+
+The original post can be found here:
+http://lifeofaprogrammergeek.blogspot.com/2008/07/rendering-cylinder-between-two-points.html
+and here
+http://curransoft.com/geek/2008/07/rendering-a-cylinder-between-two-points-in-opengl/
+
+This code is in the public domain.
+
+-- Curran Kelleher 12/22/2010
