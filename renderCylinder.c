@@ -35,7 +35,7 @@ void renderCylinder(float x1, float y1, float z1, float x2,float y2, float z2, f
 
   //draw the cylinder body
   glTranslatef( x1,y1,z1 );
-  glRotatef(ax, rx, ry, 0.0);
+  glRotatef(ax, -vy, vx, 0.0);
   gluQuadricOrientation(quadric,GLU_OUTSIDE);
   gluCylinder(quadric, radius, radius, v, subdivisions, 1);
 
